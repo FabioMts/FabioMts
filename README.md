@@ -1,4 +1,3 @@
-
 ## Hey there! I'm Fabio.
 
  ### 💻 About Me 
@@ -32,6 +31,9 @@
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>  
+&nbsp;
+<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" height="25">
+&nbsp;
  </p>
  
  <p  align="center">
@@ -39,29 +41,15 @@
   
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="25">
   &nbsp;
-
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25">
-&nbsp;
-  
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" height="25">
-&nbsp;
-  
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25">
-</p>
-<p align="center">
-
+&nbsp;  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
 &nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">
 &nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
 &nbsp;
-<img src="" height="25">
-&nbsp;
-  <img src="" height="25">
-&nbsp;
-  <img src="" height="25">
-
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25">
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMts&show_icons=true&theme=radical)]()
