@@ -59,5 +59,6 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/fabio-matos1945/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+ <br>
 
 <a href="fabio.thunder@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>&nbsp;
