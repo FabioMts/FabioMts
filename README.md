@@ -3,7 +3,6 @@
  ### 💻 About Me 
 - 📚 Exploring everything about Backend and Devops technologies 😅
 - 🎓 Studying  Information Technology at UNIVESP.
-- 💼 Working as a Application Java Developer at [IBM](https://www.linkedin.com/company/ibm/mycompany/).
 - 🌱 Learning more about Microsservices, Rest API, Cloud Architecture and CI/CD.
 - 💪🏼 Future Goals: Learn more about NodeJS and ReactJS.
 
